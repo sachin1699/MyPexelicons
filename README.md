@@ -38,11 +38,11 @@ Follow these steps to apply custom icons to your folders:
 7. **Apply and OK:** Apply the changes, and then click "OK" to close the properties window.
 
 
-# PIXELBLOOM
+# MyPexelicons
 Personalized copy of PexelIcons with a dark-mode toggle and comments.
 
 ## What I changed
-- Changed <title> to "My PexelIcons — (Your Name)"
+- Changed <title> to "My PexelIcons"
 - Added dark mode with localStorage persistence
 - Added comments to key JS and HTML parts
 
