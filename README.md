@@ -58,7 +58,7 @@ http://127.0.0.1:55538/?code=af93b819a7459908362e&state=430fcadfd8f146f2845ccea9
 
 ## Contributing
 
-If you'd like to contribute to PixelBloom, feel free to open an issue or submit a pull request. Your contributions are highly appreciated!
+If you'd like to contribute to MyPexelicons, feel free to open an issue or submit a pull request. Your contributions are highly appreciated!
 
 ## License
 
