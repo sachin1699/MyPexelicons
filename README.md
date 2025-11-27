@@ -39,10 +39,10 @@ Follow these steps to apply custom icons to your folders:
 
 
 # MyPexelicons
-Personalized copy of PexelIcons with a dark-mode toggle and comments.
+Personalized copy of MyPexelicons with a dark-mode toggle and comments.
 
 ## What I changed
-- Changed <title> to "My PexelIcons"
+- Changed <title> to "MyPexelicons"
 - Added dark mode with localStorage persistence
 - Added comments to key JS and HTML parts
 
@@ -54,7 +54,7 @@ HTML, CSS, JavaScript
 2. Toggle dark mode with the button
 
 ## Live demo
-http://127.0.0.1:55538/?code=af93b819a7459908362e&state=430fcadfd8f146f2845ccea9049b3653
+https://sachin1699.github.io/MyPexelicons/
 
 ## Contributing
 
@@ -70,4 +70,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-<p align="center">Design & Built by <a href=" https://sachin1699.github.io/PixelBloom/">@sachin1699</a> | &copy; twentytwentyfive</p>
+<p align="center">Design & Built by <a href=" https://sachin1699.github.io/MyPexelicons/">@sachin1699</a> | &copy; twentytwentyfive</p>
