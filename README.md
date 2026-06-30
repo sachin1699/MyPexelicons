@@ -39,12 +39,16 @@ Follow these steps to apply custom icons to your folders:
 
 
 # MyPexelicons
-Personalized copy of MyPexelicons with a dark-mode toggle and comments.
+Personalised copy of MyPexelicons with a dark-mode toggle and comments.
 
-## What I changed
-- Changed <title> to "MyPexelicons"
-- Added dark mode with localStorage persistence
-- Added comments to key JS and HTML parts
+## What I Improved
+
+- Implemented Dark Mode with persistent theme preference using the Local Storage API.
+- Enhanced the user interface with improved layout, spacing, and responsive design.
+- Optimised HTML and JavaScript code for better readability and maintainability.
+- Improved the overall user experience through UI refinements and usability enhancements.
+- Customised the application structure and interface to align with personal project requirements.
+- Deployed the application using GitHub Pages with Git-based version control.
 
 ## Technologies
 HTML, CSS, JavaScript
