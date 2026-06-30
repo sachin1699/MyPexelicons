@@ -1,4 +1,4 @@
-# <a href="https://vinodjangid07.github.io/Pexelicons" target="_blank">Pexelicons</a>
+# <a href="https://sachin1699.github.io/MyPexelicons/" target="_blank">MyPexelicons</a>
 
 ![Pexelicons Logo](assets/images/Websitescreenshot.png)
 
@@ -6,7 +6,7 @@
 
 ## Features
 
-- 🎨 **Custom Icons:** Explore a world of personalized file folder icons inspired by various themes.
+- 🎨 **Custom Icons:** Explore a world of personalised file folder icons inspired by various themes.
 - 🚀 **Easy to Use:** Download and apply custom icons to your folders effortlessly.
 - 💻 **Compatibility:** Icons are provided in ICO format, ensuring compatibility with Windows systems.
 
@@ -50,7 +50,7 @@ Personalized copy of MyPexelicons with a dark-mode toggle and comments.
 HTML, CSS, JavaScript
 
 ## How to run locally
-1. Open `index.html` in browser OR use Live Server in VS Code
+1. Open `index.html` in the browser OR use Live Server in VS Code
 2. Toggle dark mode with the button
 
 ## Live demo
